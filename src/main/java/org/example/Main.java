@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hola, soy Macarena");
         System.out.println("Hola, soy Fabiana y tengo 26 años");
         System.out.println("Fabiana, we love u!");
+        System.out.println("Si, no, no");
     }
 }
